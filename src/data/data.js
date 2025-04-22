@@ -56,6 +56,14 @@ export const bins = [
     address: "US Address 𝗙𝘂𝗹𝗹 𝗡𝗮𝗺𝗲: Joshua Garci  𝗦𝘁𝗿𝗲𝗲𝘁 𝗔𝗱𝗱𝗿𝗲𝘀𝘀: 123 Main St𝗖𝗶𝘁𝘆/𝗧𝗼𝘄𝗻/𝗩𝗶𝗹𝗹𝗮𝗴𝗲: Brooklyn𝗦𝘁𝗮𝘁𝗲/𝗣𝗿𝗼𝘃𝗶𝗻𝗰𝗲/𝗥𝗲𝗴𝗶𝗼𝗻: New york 𝗣𝘀𝘁𝗮𝗹 𝗖𝗼𝗱𝗲: 11201",
     image: "https://tse2.mm.bing.net/th?id=OIP.PFb5F658OM3jPNGpdK2_PgHaHa&pid=Api&P=0&h=180"
   },
+  {
+    id: 8,
+    bin: "414718142763xxxx",
+    country: "US",
+    ip: "US",
+    address: "https://www.adobe.com/products/catalog.html#modal-twp-allapps",
+    image: "https://tse2.mm.bing.net/th?id=OIP.dMhka3dVLlL5QrTijEP52QHaEI&pid=Api&P=0&h=180"
+  },
 
   
 ];
@@ -63,7 +71,7 @@ export const bins = [
 export const promos = [
   {
     id: 1,
-    text: "Limited time offer: join private channel dm tg @Its_soloz!",
+    text: "paid channel for C4RDING: join paid channel dm tg @Its_soloz!",
     active: true
   },
   {
