@@ -12,7 +12,11 @@ const Promo = () => {
   const promo = promos[0];
   
   return (
-    <div className="promo-container">
+    <div 
+      className="promo-container"
+      data-aos="fade-down"
+      data-aos-delay="200"
+    >
       <div className="promo-dots"></div>
       <p className="promo-text">{promo.text}</p>
     </div>
