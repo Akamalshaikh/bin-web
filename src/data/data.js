@@ -107,6 +107,15 @@ export const bins = [
     ip: "PERU",
     address: "PERU",
     image: "https://tse1.mm.bing.net/th?id=OIP.R2wCRp3FoL857WgEi0dJpQHaGM&pid=Api&P=0&h=180"
+  },
+
+{
+    id: 14,
+    bin: "542432360757|01|2027",
+    country: "no vpn",
+    ip: "no vpn",
+    address: "no vpn own ip",
+    image: "https://tse1.mm.bing.net/th?id=OIP.Hi3_jsIC-B-IC9ohoOg_HAHaEK&pid=Api&P=0&h=180"
   }
 
   
